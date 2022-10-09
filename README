@@ -1,0 +1,48 @@
+Code that I used in this project:
+
+Step1: firstly, I downloaded the git from the official site for my windows PC:
+Step 2: Install it, and check it's version
+
+git --version
+
+It shows the version that means, It was successfully installed!
+
+----------------
+No, i set the user name and email through:
+
+git config --global user.name
+and git config --global user.email
+
+and cross check it by using:
+
+git config user.name & git config user.email
+
+--------------------------
+
+What's next:
+
+i have Created respository 'edureka-transaction-api' through my github... 
+
+and then clone it...using the code
+
+git clone https://github.com/nahidprawez/edureka-transaction-api.git
+
+-----------
+To check the current branch, I have used this command:
+
+Since, there is no branch, SO I will create the first one:
+git checkout -b 'nahid'
+
+Now, I will add 2 files
+
+and check the status through command:
+
+git status
+
+, this will result the untracked the files where changes have been made.
+
+Now, to tracke the files:
+
+git add .
+
+
