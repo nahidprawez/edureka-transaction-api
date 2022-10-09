@@ -45,4 +45,8 @@ Now, to tracke the files:
 
 git add .
 
+and then ,, commit the first changes
+
+git commit -m 'my message'
+
 
