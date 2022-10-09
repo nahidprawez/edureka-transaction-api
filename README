@@ -50,3 +50,26 @@ and then ,, commit the first changes
 git commit -m 'my message'
 
 
+
+---------------
+
+
+Now to create a branch named testBranch
+
+git checkout -b 'testBranch'
+
+now again git add .
+
+and then git commit -m 'first push on branch'
+
+git push origin testBranch
+
+and done!!
+
+=====================
+Now let's check the last commit
+
+to check this, I use:    git log
+
+And done!....
+
